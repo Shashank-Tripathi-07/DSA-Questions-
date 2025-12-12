@@ -4,8 +4,8 @@ Hello, Welcome to this repo. This is like a blog where I share my leetcode solut
 
 I focus on 
 - Solving the problem
-- Solving them fast
-- solving them in the least memory possible
+- Solving the problem fast
+- solving the problem in least memory possible
 
 I'm writing these solutions cause I feel the people and even I will benefit from them at times when I need to see the solutions. 
 
